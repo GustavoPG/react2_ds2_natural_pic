@@ -2,7 +2,6 @@ import { useContext } from 'react';
 import { GalleryContext } from '../contexts/GalleryContext';
 import IconHeart from './IconHeart';
 
-
 const Gallery = () => {
   const { data, setData } = useContext(GalleryContext);
 
