@@ -1,1 +1,13 @@
-# react2_ds2_natural_pic ggggg
+# React + Vite
+
+## Install
+
+```bash
+npm install
+```
+
+## Run
+
+```bash
+npm run dev
+```
